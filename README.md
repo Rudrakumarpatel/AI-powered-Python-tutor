@@ -1,8 +1,37 @@
-# React + Vite
+# **AI-Powered Python Tutor** 🐍  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo**: [AI-Powered Python Tutor](https://skc-rudrakumar-ai-powered-python-tuto.netlify.app/)  
 
-Currently, two official plugins are available:
+## **📌 Features**
+- AI-powered chatbot for Python learning.  
+- Interactive homework assignments.  
+- Customizable AI tutor characters.  
+- API key configuration for Gemini API.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **🛠 Tech Stack**
+| Tech | Purpose |
+|------|---------|
+| **React (Vite)** | Front-end framework |
+| **Tailwind CSS** | Styling |
+| **Axios** | API requests |
+| **Gemini API** | AI chatbot backend |
+| **Netlify** | Hosting |
+
+## **📂 Project Structure**
+
+
+## **⚙️ Installation & Setup**
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/rudrakumar/python-tutor.git
+cd python-tutor
+
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Configure API Key
+Get an API key from Gemini API.
+it in the app when prompted.
+
+4️⃣ Run the Project
+npm run dev
